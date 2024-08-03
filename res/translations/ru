@@ -1,21 +1,21 @@
-welcome_title = Welcome
+welcome_title = Добро пожаловать
 welcome_message =
-    Space Acres is an opinionated GUI application for farming on Autonomys Network.
+    Space Acres - это приложение с графическим интерфейсом для ведения фарминга в Autonomys Network.
 
-    Before continuing you need 3 things:
-    ✔ Wallet address where you'll receive rewards (use Subwallet, polkadot{"{"}.js{"}"} extension or any other wallet compatible with Substrate chain)
-    ✔ 100G of space on a good quality SSD to store node data
-    ✔ any SSDs (or multiple) with as much space as you can afford for farming purposes, this is what will generate rewards"
-button_continue = Continue
+    Прежде чем продолжить, вам понадобятся 3 вещи:
+    ✔ Адрес кошелька, на который вы будете получать вознаграждения (используйте Subwallet, расширение polkadot{"{"}.js{"}"} или любой другой кошелек, совместимый с цепочкой Substrate)
+    ✔ 100 Гб места на качественном SSD для хранения данных ноды
+    ✔ любой SSD (или несколько) с таким количеством места, которое вы можете себе позволить, для фермерских целей, именно это будет генерировать вознаграждение"
+button_continue = Продолжить
 
-upgrade_title = Upgrade
+upgrade_title = Обновление
 upgrade_message =
-    Thanks for choosing Space Acres again!
+    Спасибо, что снова выбрали Space Acres!
 
-    The chain you were running before upgrade is no longer compatible with this release of Space Acres, likely because you were participating in the previous version of Autonomys.
+    Цепочка, которую вы запускали до обновления, больше не совместима с этим выпуском Space Acres, вероятно, потому что вы участвовали в предыдущей версии Autonomys.
 
-    But fear not, you can upgrade to currently supported network with a single click of a button!"
-upgrade_button_upgrade = Upgrade to {$chain_name}
+    Но не бойтесь, вы можете обновиться до поддерживаемой сейчас сети одним нажатием кнопки!"
+upgrade_button_upgrade = Обновление до {$chain_name}
 
 loading_title = Загрузка
 loading_configuration_title = Загрузка конфигурации
